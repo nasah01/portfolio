@@ -3,4 +3,3 @@ function openPopup(Popupid) {
   var popup = document.getElementById(Popupid);
   popup.classList.toggle("show");
 }
-
