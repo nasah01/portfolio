@@ -148,13 +148,15 @@ border-color: #00000
 #divhhmphoto {
 background-image: url('../images/hhmphoto.jpg');
 width:250px;
-height:264px;
+height:250px;
+border: 2px solid #000000;
 }
 
 #divhhmphoto:hover {
    background-image: url('../images/hhmphoto2.jpg');
 width:250px;
-height:264px;
+height:250px;
+border: 2px solid #000000;
 }
 /* Photo-Swap related Styles - Ends */
 
